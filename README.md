@@ -62,15 +62,4 @@ Want to share this as a live website? Follow these steps:
 3. Go to [vercel.com](https://vercel.com), log in, connect your GitHub, and import your repo.
 4. Click **Deploy** — your live site link will be ready to share! 🔗 Or you can watch any youtube video on how to host nextjs project on vercel.
 
----
 
-## 🧠 Need Help?
-
-DM me on Instagram 👉 [@anujbuilds](https://instagram.com/anujbuilds)
-
----
-
-## 🎁 Want a Personalized Version?
-
-🌟 Live hosted version with your own:  
-Name, messages, music, letter, photos & fast delivery — [Order now](https://www.anujbuilds.in/products/birthday-v3)
